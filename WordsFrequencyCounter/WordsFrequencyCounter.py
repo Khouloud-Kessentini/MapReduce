@@ -1,3 +1,5 @@
+# Words Frequency Counter
+
 from mrjob.job import MRJob
 
 class MRWordFrequencyCounter(MRJob):
