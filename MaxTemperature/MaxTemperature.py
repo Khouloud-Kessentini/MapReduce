@@ -1,4 +1,4 @@
-# Max Temperature
+#  Max Temperature
 
 from mrjob.job import MRJob
 class MRMaxTemperature(MRJob):
